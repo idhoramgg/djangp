@@ -1,0 +1,7 @@
+h1{
+    color: blue;
+}
+
+table, th,td, tr, thead{
+    border: 2px solid black
+}
